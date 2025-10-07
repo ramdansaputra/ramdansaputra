@@ -1,17 +1,35 @@
-<h1 align="center">⚓ Ramdan D. Saputra ⚓</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=1E90FF&center=true&vCenter=true&width=435&lines=Setting+sail+into+the+unknown...;Dreams+never+sink.;The+sea+remembers+those+who+dare." alt="typing animation" />
-</p>
+<img src="https://i.pinimg.com/originals/8a/41/2f/8a412f96e4b59bb0c5f7c3fdc49e9985.gif" width="300px" alt="Satou Tatsuhiro">
 
----
-
-> “The world may call me lost... but I sail for the truth the ocean hides.”
+# 🕯️ Ramdan D. Saputra  
+> “Aku hanya ingin melakukan hal yang benar, meski aku sendiri belum tahu apa itu benar.”
 
 ---
 
-### ☠️ About Me
-```diff
-+ full-stack dreamer
-- sailing between code and chaos
-# one ambition: freedom
+### 🌒 Tentang  
+Aku tidak mencari arti yang besar — aku hanya mencoba memahami hal-hal kecil.  
+Kadang lewat kode, aku menemukan diriku sendiri… atau justru kehilangan lagi.  
+
+Arcana Center **VIII** : _Kekuatan dan Kesadaran Diri_  
+Karmic Tail **3 · 7 · 22** : _Kejujuran, Pencarian, dan Kebangkitan._
+
+---
+
+### ⚙️ Saat Ini  
+- Membuat sistem yang sederhana, tapi jujur.  
+- Belajar memahami logika seperti memahami manusia.  
+- Mencoba hidup tanpa tergesa-gesa.
+
+---
+
+### 🧩 Alat  
+`HTML` · `CSS` · `JavaScript` · `PHP` · `MySQL`
+
+---
+
+### 🕯️ Catatan  
+> “Kadang, menjalankan kebenaran terasa seperti kesalahan —  
+> tapi Tenma pun tetap melakukannya.”
+
+</div>
