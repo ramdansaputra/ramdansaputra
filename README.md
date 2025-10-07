@@ -1,17 +1,17 @@
-<h1 align="center">ramdan.saputra</h1>
+<h1 align="center">⚓ Ramdan D. Saputra ⚓</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=8B0000&center=true&vCenter=true&width=435&lines=Hello+World.;Lost+in+the+code.;Echoes+from+the+void." alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=1E90FF&center=true&vCenter=true&width=435&lines=Setting+sail+into+the+unknown...;Dreams+never+sink.;The+sea+remembers+those+who+dare." alt="typing animation" />
 </p>
 
 ---
 
-> “In the silence between lines of code, I found my own voice.”
+> “The world may call me lost... but I sail for the truth the ocean hides.”
 
 ---
 
-### 🕯️ About Me
+### ☠️ About Me
 ```diff
-+ coding in the dark
-- breaking limits quietly
-# searching for meaning in syntax
++ full-stack dreamer
+- sailing between code and chaos
+# one ambition: freedom
