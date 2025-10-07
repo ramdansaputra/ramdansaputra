@@ -15,9 +15,8 @@
 ## 🧠 About Me
 - 💻 Student at *SMK Negeri 1 Purbalingga* — majoring in *Software Engineering (RPL)*
 - 🧩 Enjoys coding things that actually make sense
-- 🔮 Deep thinker, curious about psychology & personality systems (MBTI, Destiny Matrix, etc.)
+- 🔮 Curious about psychology & personality systems (MBTI, Destiny Matrix, etc.)
 - 🎧 Often listens to music while debugging life and code
-- 🕊 INFJ / INFP vibes — calm but intense when inspired
 
 ---
 
