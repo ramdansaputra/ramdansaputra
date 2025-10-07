@@ -1,32 +1,17 @@
-# 👋 Hi, I'm Ramdan Dwi Saputra
+<h1 align="center">ramdan.saputra</h1>
 
-🌱 I'm a passionate developer and creator from Indonesia.  
-💡 I love building meaningful projects, exploring design, and mixing creativity with technology.
-
----
-
-### 🧠 Tech & Tools I Use
-💻 PHP | MySQL | JavaScript | HTML | CSS  
-⚙️ XAMPP | VS Code | Git & GitHub | Bootstrap | MVC Pattern
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1200&color=8B0000&center=true&vCenter=true&width=435&lines=Hello+World.;Lost+in+the+code.;Echoes+from+the+void." alt="typing animation" />
+</p>
 
 ---
 
-### 🚀 My Current Projects
-- 🩵 **R2RUN** — website sepatu interaktif berbasis PHP MVC  
-- 🧩 **MVC06** — personal MVC project with clean architecture  
-- 🔥 Experimenting with new frontend ideas
+> “In the silence between lines of code, I found my own voice.”
 
 ---
 
-### 🌈 About Me
-INFJ ✦ Visionary ✦ Numerology Enthusiast ✦ Music Explorer  
-_"Creating is how I breathe — coding is just one form of it."_
-
----
-
-### 📫 Connect with Me
-[Instagram](https://instagram.com/ramdandsaputra) | [YouTube](https://youtube.com/@ramdandsaputra) | [TikTok](https://tiktok.com/@ramdandsaputra)
-
----
-
-⭐ **Fun Fact:** I name my code files like songs — because every project has a rhythm.
+### 🕯️ About Me
+```diff
++ coding in the dark
+- breaking limits quietly
+# searching for meaning in syntax
